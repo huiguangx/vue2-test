@@ -29,6 +29,11 @@ export default {
     // MainComponent,
     Aselect,
   },
+  methods: {
+    getNum() {
+      console.log("77777");
+    },
+  },
 };
 </script>
 
