@@ -32,6 +32,7 @@ export default {
   methods: {
     getNum() {
       console.log("77777");
+      console.log("hotfix");
     },
   },
 };
