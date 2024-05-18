@@ -4,3 +4,4 @@
  * Copyright © YourCompanyName All rights reserved
  */
 console.log(66666666);
+const b = 2;
