@@ -12,3 +12,4 @@ const debounce = (fn, delay) => {
     }, delay);
   };
 };
+const a = 1;
