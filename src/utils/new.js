@@ -8,3 +8,4 @@ const _new = (Fn, ...args) => {
   const res = Fn.apply(obj, args);
   return res instanceof Object ? res : obj;
 };
+const cc = 33;
